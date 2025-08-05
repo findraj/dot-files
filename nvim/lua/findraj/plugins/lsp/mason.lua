@@ -33,6 +33,7 @@ return {
         "pyright",
         "phpactor",
         "sqlls",
+        "ts_ls",
       },
     })
 
